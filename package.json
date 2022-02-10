@@ -194,7 +194,7 @@
     "jsdom": "^16.2.2",
     "lint-staged": "^8.1.5",
     "mini-css-extract-plugin": "^0.4.5",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "postcss-loader": "^3.0.0",
     "postcss-preset-env": "^6.6.0",
     "puppeteer": "^1.20.0",
