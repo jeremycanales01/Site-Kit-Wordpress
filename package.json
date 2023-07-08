@@ -205,7 +205,7 @@
     "sass-loader": "^7.0.3",
     "start-server-and-test": "^1.7.13",
     "storybook-chrome-screenshot": "^1.4.0",
-    "stylelint": "^9.10.1",
+    "stylelint": "^15.10.1",
     "stylelint-config-wordpress": "^13.1.0",
     "stylelint-declaration-use-variable": "^1.7.0",
     "stylelint-order": "^1.0.0",
